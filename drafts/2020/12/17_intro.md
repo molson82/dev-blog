@@ -39,6 +39,10 @@ A Quick summary of my projects:
   - Golang back-end
   - Nuxt.js (SSR Vue) front-end
   - Progressive Web App (PWA)
+  - AWS S3
+  - PostgreSQL Database
+  - Redis Database
+  - JWT Auth
 
 Features (not all yet developed):
   - Search for dogs in your area in need of adoption
