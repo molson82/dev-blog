@@ -4,8 +4,8 @@
 😀 [Bio](#bio-)\
 📝 [Why make a blog](#Why-make-a-blog-)\
 💻 [Projects](#projects-)\
-⏳ [T.L.D.R](#t.l.d.r-)\
-🔗 [Photos / Links](#photos-/-links-)
+⏳ [T.L.D.R](#tldr-)\
+🔗 [Photos / Links](#photos--links-)
 
 #
 ## Bio 😀
