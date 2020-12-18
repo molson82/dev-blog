@@ -1,0 +1,1 @@
+Store any blog templates here for easy drafting and usability. 
