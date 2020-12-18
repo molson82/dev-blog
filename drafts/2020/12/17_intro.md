@@ -5,7 +5,7 @@
 📝 [Why make a blog](#Why-make-a-blog-)\
 💻 [Projects](#projects-)\
 ⏳ [T.L.D.R](#tldr-)\
-🔗 [Photos / Links](#photos--links-)
+🔗 [Photos / Links](#photos--links)
 
 #
 ## Bio 😀
