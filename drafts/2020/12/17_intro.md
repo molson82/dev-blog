@@ -1,11 +1,11 @@
 # Molson's Dev Blog - Intro
 
 ### Table of contents
-😀 [Bio](#Bio)\
-📝 [Why make a blog](#Why-make-a-blog)\
-💻 [Projects](#Projects)\
-⏳ [T.L.D.R](#T.L.D.R)\
-🔗 [Photos / Links](#Photos-/-Links)
+😀 [Bio](#bio-)\
+📝 [Why make a blog](#Why-make-a-blog-)\
+💻 [Projects](#projects-)\
+⏳ [T.L.D.R](#t.l.d.r-)\
+🔗 [Photos / Links](#photos-/-links-)
 
 #
 ## Bio 😀
