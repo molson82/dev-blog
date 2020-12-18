@@ -10,7 +10,7 @@
 #
 ## Bio 😀
 
-Hello! My name is Molson and I am an experienced full stack Software Engineer with an active history of working in the internet industry. Skilled in JavaScript, Vue.js, Nuxt.js, Node, Golang, Java, HTML/CSS, and Scrum. I obtained my Bachelor of Science - BS focused on Computer and Information Technology from Purdue University.
+Hello! My name is Molson and I am an experienced full stack Software Engineer with an active history of working in the cloud/web industry. Skilled in JavaScript, Vue.js, Nuxt.js, Node, Golang, Java, HTML/CSS, and Scrum. I obtained my Bachelor of Science - BS focused on Computer and Information Technology from Purdue University.
 
 All of that to say that I love programming and developing, not only for my full-time job but also on the side for my personal projects. I have many projects that I am constantly working on either by myself or with colleagues and or friends.
 
