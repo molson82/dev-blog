@@ -1,1 +1,0 @@
-# Molson's Dev Blog - #1
